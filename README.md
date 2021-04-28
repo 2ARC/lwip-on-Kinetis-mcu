@@ -1,4 +1,3 @@
-#lwip-on-Kinetis-mcu
 Example usage of the lwip stack with a Kinetis mcu from NXP.
 
 Board was designed by me with Kicad 5 and has been manufactured at JLCPCB.com, components bought at Mouser.com
