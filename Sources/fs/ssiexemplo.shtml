@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html><head><title>Teste da interface Ethernet</title>
+<p>Como exemplo, a placa vai enviar os caracteres imprimiveis da tabela ASCII em ordem crescente.</p>
+<p>Pressione F5 para atualizar o contador na placa.</p>
+<br>
+<p>Texto para a tag1: <!--#tag1--></p>
+<br>
+<p>Texto para a tag2: <!--#tag2--></p>
+</html>

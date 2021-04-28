@@ -1,0 +1,7 @@
+target remote localhost:2331
+monitor reset
+monitor device MK64FX512xxx12
+load Debug/MK64FX512_ethernet.elf
+monitor go
+disconnect
+quit

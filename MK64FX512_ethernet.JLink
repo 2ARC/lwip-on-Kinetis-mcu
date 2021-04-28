@@ -1,0 +1,6 @@
+si JTAG
+speed 40000
+mem 400 10
+hwinfo
+regs
+moe
