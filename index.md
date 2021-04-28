@@ -1,1 +1,1 @@
-Example of lwip running with CGI and SSI on board made by myself with a arm m4f
+Example of the lwip stack running on a board made by myself with a arm m4f
